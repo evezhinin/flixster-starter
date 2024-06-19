@@ -4,16 +4,16 @@ body {
   background-color: #9a8c98;
 }
 
-button {
-  background-color: #282c34;
+/* button {
+  background-color: purple;
   color: white;
   cursor: pointer;
   font-size: 16px;
   font-weight: bold;
   transition: background-color 0.3s ease;
-}
+} */
 
-button:hover {
+/* button:hover {
   background-color: #777;
   color: white;
-}
+} */

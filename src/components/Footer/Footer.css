@@ -1,0 +1,27 @@
+.Footer {
+
+    position: relative;
+    bottom:0;
+    height: 5vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color:#95279B ;
+    padding: 0;
+    width:100%;
+  }
+
+.footer-title {
+    /* z-index: 2; */
+    position: relative;
+    font-size: 20px; 
+    margin: 0;
+    font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
+    font-weight: bolder;
+    color: aliceblue;
+    
+}

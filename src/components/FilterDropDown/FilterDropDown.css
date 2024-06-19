@@ -1,0 +1,13 @@
+
+#genre-select {
+    font-size: 14px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 200px; 
+  }
+  
+  #genre-select:hover,
+  #genre-select:focus {
+    border-color: #007bff; 
+  }
